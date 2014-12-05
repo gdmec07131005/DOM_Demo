@@ -1,0 +1,11 @@
+<users>
+    <user id="1">
+        <name>丽丝</name>
+        <password>12345</password>
+    </user>
+    
+        <user id="2">
+        <name>张叁</name>
+        <password>123457</password>
+    </user>
+</users>
